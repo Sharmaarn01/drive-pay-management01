@@ -1,0 +1,8 @@
+
+{
+  "name": "DRIVE PAY: Fleet Management",
+  "description": "Professional driver payment and route management system with cloud persistence.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
